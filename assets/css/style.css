@@ -810,11 +810,11 @@ p {
 
 @media screen and (max-width: 360px) and (max-height: 740px) {
     .nabl-img {
-        height: 45px;
+        height: 50px;
     }
     
     .celebrate {
-        height: 45px;
+        height: 50px;
     }
 
     .center-section .text {
