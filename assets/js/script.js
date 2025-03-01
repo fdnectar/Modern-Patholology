@@ -47,6 +47,14 @@
             {
                 "Attribute": "RelatedCompanyId",
                 "Value": COMPANY_ID
+            },
+            {
+                "Attribute": "RelatedCompanyId",
+                "Value": COMPANY_ID
+            },
+            {
+                "Attribute": "Source",
+                "Value": "nirmaya_1.2"
             }
         ]);
     }
